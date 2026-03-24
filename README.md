@@ -100,4 +100,4 @@ This repository uses a simplified dataset for demonstration purposes and is inte
 ## Author
 
 Hui Wen Tang
-Bioinformatics & Data Analysis
+Bioinformatics & Data Analyst
