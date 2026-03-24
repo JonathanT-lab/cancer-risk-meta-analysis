@@ -1,0 +1,22 @@
+Cancer Risk Meta-Analysis Summary
+
+Number of studies: k = 9
+Number of observations: o = 5300 (o.e = 2650, o.c = 2650)
+Number of events: e = 1827
+
+                         OR           95%-CI     z  p-value
+Common effect model  1.8660 [1.6630; 2.0937] 10.62 < 0.0001
+Random effects model 1.8660 [1.6629; 2.0938] 10.61 < 0.0001
+
+Quantifying heterogeneity (with 95%-CIs):
+ tau^2 = 0; tau = 0; I^2 = 0.0% [0.0%; 64.8%]; H = 1.00 [1.00; 1.69]
+
+Test of heterogeneity:
+    Q d.f. p-value
+ 2.05    8  0.9794
+
+Details of meta-analysis methods:
+- Mantel-Haenszel method (common effect model)
+- Inverse variance method (random effects model)
+- Restricted maximum-likelihood estimator for tau^2
+- Calculation of I^2 based on Q
